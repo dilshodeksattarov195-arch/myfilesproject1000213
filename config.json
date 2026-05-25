@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessiondpdate",
+        "uuid": 1166175,
+        "checksum": "olx95o"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
